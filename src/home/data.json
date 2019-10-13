@@ -1,0 +1,86 @@
+{
+	"featured": [
+		{
+			"key": "f1",
+			"heading": "Upcoming Events",
+			"status": "3 von 9",
+			"subtitle": "in Sapolis",
+			"items": [
+				{
+					"key": "1",
+					"title": "Sapolis Sommerfest",
+					"subtitle": "27 Jul 2019, 19:00 - 01:00",
+					"location": "Innenstadt",
+					"icon": "sap-icon://calendar"
+				},
+				{
+					"key": "2",
+					"title": "Sapolis Cocktail Festival",
+					"subtitle": "16 Aug 2019, 17:00 - 23:30",
+					"location": "Stadtpark",
+					"icon": "sap-icon://calendar"
+				},
+				{
+					"key": "3",
+					"title": "Sapolis Kinderspektakel",
+					"subtitle": "25 Aug 2019, 11:00 - 17:00",
+					"location": "Stadtpark",
+					"icon": "sap-icon://calendar"
+				}
+			]
+		}
+	],
+	"quicklinks": [
+		{
+			"key": "f2",
+			"heading": "Quicklinks",
+			"status": "7 von 7",
+			"subtitle": "in Sapolis",
+			"items": [
+				{
+					"key": "1",
+					"title": "Impressum",
+					"icon": "sap-icon://official-service",
+					"link": "/imprint"
+				},
+				{
+					"key": "2",
+					"title": "Datenschutz",
+					"icon": "sap-icon://locked",
+					"link": "/privacy"
+				},
+				{
+					"key": "3",
+					"title": "React",
+					"icon": "sap-icon://attachment-html",
+					"link": "https://reactjs.org/"
+				},
+				{
+					"key": "4",
+					"title": "UI5 Web Components",
+					"icon": "sap-icon://product",
+					"link": "https://sap.github.io/ui5-webcomponents/"
+				},
+				{
+					"key": "5",
+					"title": "SAPUI5",
+					"icon": "sap-icon://sap-ui5",
+					"link": "https://sapui5.hana.ondemand.com/"
+					
+				},
+				{
+					"key": "6",
+					"title": "Fiori",
+					"icon": "sap-icon://responsive",
+					"link": "https://experience.sap.com/fiori-design-web/"
+				},
+				{
+					"key": "7",
+					"title": "advades GmbH",
+					"icon": "sap-icon://collaborate",
+					"link": "https://www.advades.com/"
+				}
+			]
+		}
+	]
+}
